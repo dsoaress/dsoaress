@@ -1,6 +1,6 @@
 # Hello 🖐
 
-I'm Daniel Soares, a social scientist in training, as well as a hobbyist web developer.
+I'm Daniel Soares, a social scientist, as well as a hobbyist web developer.
 
 ## You can find me on
 
