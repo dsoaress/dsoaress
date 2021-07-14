@@ -1,6 +1,6 @@
 # Hello 🖐
 
-I'm Daniel Soares, a social scientist, as well as a hobbyist web developer.
+I am Daniel Soares, a front-end developer working with React and Next.js
 
 <div>
   <a href="https://github.com/dsoaress">
