@@ -2,7 +2,7 @@
 
 I am Daniel Soares, a full stack developer working with React, Next.js and Node.js
 
-<div style="display: inline_block; margin-bottom: 32px;">
+<!-- <div style="display: inline_block; margin-bottom: 32px;">
   <a href="https://github.com/dsoaress">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=dsoaress&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&show_icons=true" />
   </a>
@@ -10,7 +10,7 @@ I am Daniel Soares, a full stack developer working with React, Next.js and Node.
   <a href="https://github.com/dsoaress">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsoaress&theme=dracula&layout=compact" />
   </a>
-</div>
+</div> -->
 
 <br />
 
