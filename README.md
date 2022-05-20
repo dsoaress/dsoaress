@@ -29,4 +29,4 @@ I am Daniel Soares, a full stack developer working with React, Next.js and Node.
 
 📷 [Instagram](https://instagram.com/dansoares)  
 ⚛️ [My site](https://dsoares.me)  
-🌎 Foz do Iguaçu, Brazil.
+🌎 Rio de Janeiro, Brazil.
