@@ -1,6 +1,6 @@
 # Hello 🖐
 
-I am Daniel Soares, a front-end developer working with React and Next.js
+I am Daniel Soares, a a full stack developer working with React, Next.js and Node.js
 
 <div style="display: inline_block; margin-bottom: 32px;">
   <a href="https://github.com/dsoaress">
