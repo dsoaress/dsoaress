@@ -1,6 +1,6 @@
 # Hello 🖐
 
-I am Daniel Soares, a full stack developer working with React, Next.js and Node.js
+I'm Daniel Soares, full stack developer working with React, Next.js and Node.js as Tech Lead at [Develcode](https://www.linkedin.com/company/develcode/)
 
 <!-- <div style="display: inline_block; margin-bottom: 32px;">
   <a href="https://github.com/dsoaress">
