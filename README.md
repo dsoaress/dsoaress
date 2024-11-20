@@ -1,6 +1,6 @@
 # Hello 🖐
 
-I'm Daniel Soares, senior full stack developer working with Go, Node and React.
+I'm Daniel Soares, full stack developer working with Go, Node and React.
 
 <!-- <div style="display: inline_block; margin-bottom: 32px;">
   <a href="https://github.com/dsoaress">
@@ -24,9 +24,3 @@ I'm Daniel Soares, senior full stack developer working with Go, Node and React.
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 </div>
-
-## You can find me on
-
-📷 [Instagram](https://instagram.com/dansoares)  
-⚛️ [My site](https://dsoares.me)  
-🌎 Rio de Janeiro, Brazil.
