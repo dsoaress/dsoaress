@@ -1,6 +1,6 @@
 # Hello 🖐
 
-I'm Daniel Soares, full stack developer working with Go, Node and React.
+I'm Daniel Soares, full stack developer working with Node and React.
 
 <!-- <div style="display: inline_block; margin-bottom: 32px;">
   <a href="https://github.com/dsoaress">
@@ -15,7 +15,6 @@ I'm Daniel Soares, full stack developer working with Go, Node and React.
 <br />
 
 <div>
-  <img align="center" alt="Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
   <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
